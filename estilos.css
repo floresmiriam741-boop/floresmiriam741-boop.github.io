@@ -175,6 +175,12 @@ img, video, iframe{
 	 filter: grayscale(0%) opacity(100%) drop-shadow(0 0 5px #ff689D);
     transform: scale(1.2);
 }
+}
+
+ #imglogo:hover{
+	 filter: grayscale(0%) opacity(100%) drop-shadow(0 0 5px #ff689D);
+    transform: scale(1.2);
+}
 
 
  iframe:hover{
